@@ -1,11 +1,40 @@
-🧠✨ Multi-Brain Chat: Gemini & Local LLMs + RAG PDF QA
+# 🧠✨ Multi-Brain Chat: Gemini & Local LLMs + RAG PDF QA
+<div align="center">
 
-<div align="center"> <img src="https://img.shields.io/badge/streamlit-%F0%9F%A7%A1_lightning_-orange?style=for-the-badge" /> <img src="https://img.shields.io/badge/Google%20Gemini-%F0%9F%94%97_cloud-blue?style=for-the-badge" /> <img src="https://img.shields.io/badge/Local%20LLM-(CPU%20fast!)-green?style=for-the-badge" /> <img src="https://img.shields.io/badge/Supports-RAG_PDF_QA-%23FFC107?style=for-the-badge" /> <a href="https://github.com/Surajkecode"><img src="https://img.shields.io/badge/GitHub-Surajkecode-%231F2328?logo=github&logoColor=white&style=for-the-badge" /></a> <br />
-  
+<img src="https://img.shields.io/badge/streamlit-%F0%9F%A7%A1_lightning_-orange?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Google%20Gemini-%F0%9F%94%97_cloud-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Local%20LLM-(CPU%20fast!)-green?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Supports-RAG_PDF_QA-%23FFC107?style=for-the-badge" />
+<a href="https://github.com/Surajkecode">
+  <img src="https://img.shields.io/badge/GitHub-Surajkecode-%231F2328?logo=github&logoColor=white&style=for-the-badge" />
+</a>
+</div>
 
-📝 Project Overview
+
+<table>
+  <tr>
+    <td align="left">
+      <img src="https://github.com/user-attachments/assets/079c747c-a521-4047-9271-ef0d43a52c6c" height="300">
+    </td>
+    <td align="right">
+      <img src="https://github.com/user-attachments/assets/f0324725-99b2-4bb1-94e1-50afc84b8f04" height="300">
+    </td>
+  </tr>
+</table>
+
+
+
+
+
+
+
+
+
+
+
+## 📝 Project Overview:
+        
 Welcome to Multi-Brain Chat — a powerful, modular Streamlit app that fuses Google Gemini cloud AI models, blazing-fast local quantized LLMs (Vicuna, Mistral, Llama2), and a Retrieval-Augmented Generation (RAG) system to answer questions from your PDFs.
-
 Whether you want to generate and review code, chat with an empathetic AI, get expert medical advice, or deeply query your PDFs, Multi-Brain Chat is your all-in-one AI playground — with a clean, expressive UI and flexible backend selection.
 
 
@@ -26,7 +55,25 @@ Whether you want to generate and review code, chat with an empathetic AI, get ex
   - Upload multiple PDFs
   - Semantic vector indexing using sentence-transformers + FAISS
   - Ask questions with answers grounded in your documents, powered by Gemini
-  
+ 
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/d274035f-9d71-490b-8336-93ec8f9f8332" width="300"></td>
+    <td><img src="https://github.com/user-attachments/assets/28e4e0f6-4060-4034-a0a5-b32e85119480" width="300"></td>
+    <td><img src="https://github.com/user-attachments/assets/37eff61e-6ee1-4005-91b4-81641244f6ee" width="300"></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/d9da53fd-53bf-4fd4-8c5c-812607d42d8e" width="300"></td>
+    <td><img src="https://github.com/user-attachments/assets/ef4e9752-7b05-44be-ae52-54d151a0a7ca" width="300"></td>
+    <td><img src="https://github.com/user-attachments/assets/f7ff59f0-8704-4bfc-a27c-0f51284f6509" width="300"></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/aa46efc6-b1da-49a3-97a4-3bc3a207b825" width="300"></td>
+    <td><img src="https://github.com/user-attachments/assets/cf779c83-890e-483b-9778-c1526200e8b7" width="300"></td>
+    <td><img src="https://github.com/user-attachments/assets/9634eca3-5550-4050-8d71-c6ba0a1aca59" width="300"></td>
+  </tr>
+</table>
+
 - 🎨 **Beautiful UI:**
   - Streamlit-native chat bubbles with avatars & emojis
   - Live streaming answers
